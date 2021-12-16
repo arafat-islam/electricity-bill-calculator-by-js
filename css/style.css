@@ -1,0 +1,10 @@
+#indexTable {
+    max-width: 960px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    /* box-shadow: inset 1px 0px 14px 5px rgba(255, 0, 0, 0.171); */
+    /* box-shadow: 2px 1px 3px 6px #eee; */
+    box-shadow : #ddd 3px 6px 13px;
+    padding: 30px;
+
+}
